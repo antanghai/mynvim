@@ -1,4 +1,5 @@
 " ======== compile and run ========
+
 map <F5> :call CompileAndRun()<CR>
 func! CompileAndRun()
   exec "w"
