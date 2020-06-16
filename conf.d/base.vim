@@ -1,3 +1,7 @@
+
+
+
+
 set nocompatible
 let mapleader=' '
 set mouse=a
